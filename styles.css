@@ -312,6 +312,10 @@ nav ul a svg {
 	margin-bottom: 50px;
 }
 
+.curriculum .container .content .curriculum-info .curriculum-link {
+	text-decoration:none;
+}
+
 .contact {
 	max-width: 700px;
 	margin: 150px auto 70px;
