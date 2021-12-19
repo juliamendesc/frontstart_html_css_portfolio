@@ -314,6 +314,7 @@ nav ul a svg {
 
 .curriculum .container .content .curriculum-info .curriculum-link {
 	text-decoration:none;
+	color: var(--green);
 }
 
 .contact {
